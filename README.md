@@ -34,3 +34,8 @@ A key difference of this script than many of the solutions that Google gives me,
 You can use the full command line arguments listed above with `--help`, or you can quickly run the command on your current directory by only passing a query string like this:
 
     dnc flac
+
+
+## Download
+
+The latest build is available to download on the [Releases](https://github.com/tylerhall/dnc/releases) page. The builds aren't notarized. So be sure to ask Apple if it's OK to run this on your Mac.
